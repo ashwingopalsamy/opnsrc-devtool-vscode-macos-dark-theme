@@ -2,8 +2,8 @@
     "name": "macos-dark-theme",
     "displayName": "MacOS Dark Theme",
     "description": "An absolute dark theme made for programmers, by a programmer.",
-    "version": "0.0.1",
-    "publisher":"Ashwin Gopalsamy (ashwin2125)",
+    "version": "0.0.2",
+    "publisher":"ashwingopalsamy",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -12,7 +12,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/ashwin2125/MacOS-Dark"
+        "url": "https://github.com/ashwin2125/macos-dark-theme"
     },
     "contributes": {
         "themes": [
@@ -22,5 +22,6 @@
                 "path": "./themes/MacOS Dark Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon":"icon.png"
 }
