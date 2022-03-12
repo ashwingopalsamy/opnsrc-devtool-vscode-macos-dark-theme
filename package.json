@@ -2,26 +2,48 @@
     "name": "macos-dark-theme",
     "displayName": "MacOS Dark Theme",
     "description": "An absolute dark theme made for programmers, by a programmer.",
-    "version": "0.0.2",
-    "publisher":"ashwingopalsamy",
+    "version": "0.0.3",
+    "publisher": "ashwingopalsamy",
     "engines": {
         "vscode": "^1.65.0"
     },
     "categories": [
         "Themes"
     ],
+    "homepage": "https://github.com/ashwin2125/macos-dark-theme/",
     "repository": {
         "type": "git",
         "url": "https://github.com/ashwin2125/macos-dark-theme"
     },
+    "activationEvents": [
+        "onStartupFinished"
+    ],
     "contributes": {
-        "themes": [
-            {
-                "label": "MacOS Dark Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/MacOS Dark Theme-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "MacOS Dark Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/MacOS Dark Theme-color-theme.json"
+        }]
     },
-    "icon":"icon.png"
+    "icon": "icon.png",
+    "extensionKind": [
+        "ui",
+        "workspace"
+    ],
+    "keywords": [
+        "macos",
+        "dark",
+        "macos dark theme",
+        "dark",
+        "pure dark",
+        "simple dark",
+        "black theme",
+        "pure black"
+    ],
+    "capabilities": {
+        "untrustedWorkspaces": {
+            "supported": true
+        },
+        "virtualWorkspaces": true
+    },
 }
