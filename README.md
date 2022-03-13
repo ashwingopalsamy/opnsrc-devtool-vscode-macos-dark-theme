@@ -4,7 +4,7 @@
 
 Simple and Absolute Dark Theme Extension with Apple's Iconic Blue - `#007aff`, for VSCode.
 
-[![made in Tamilnadu / தமிழகம்](https://img.shields.io/badge/made%20in-tamilnadu-cf0000.svg?style=flat-square)](https://github.com/ashwin2125/macos-dark-theme) 
+[![made in Tamilnadu / ](https://img.shields.io/badge/made%20in-tamilnadu%20/%20தமிழகம்-cf0000.svg?style=flat-square)](https://github.com/ashwin2125/macos-dark-theme) 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/ashwingopalsamy.macos-dark-theme) [![VSCode Marketplace](https://vsmarketplacebadge.apphb.com/version/ashwingopalsamy.macos-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ashwingopalsamy.macos-dark-theme) [![Preview in vscode.dev](https://vsmarketplacebadge.apphb.com/installs/ashwingopalsamy.macos-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ashwingopalsamy.macos-dark-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/ashwingopalsamy.macos-dark-theme.svg)](https://marketplace.visualstudio.com/items?itemName=ashwingopalsamy.macos-dark-theme)
 [![GitHub stars](https://img.shields.io/github/stars/ashwin2125/macos-dark-theme.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ashwin/macos-dark-theme)
 
@@ -52,7 +52,9 @@ I've always searched for a better color theme that would be absolutely dark and 
 
 Andddd, thats where **"MacOS Dark Theme"** came into existence. 
 
-I request everyone to try the theme, hope you all like it. 😊
+I request everyone to try the theme, hope you all like it.
+
+தமிழ் வாழ்க ❤️
 
 ### Publisher - Social Links
 
