@@ -2,7 +2,7 @@
     "name": "macos-dark-theme",
     "displayName": "MacOS Dark Theme",
     "description": "An absolute dark theme made for programmers, by a programmer.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "ashwingopalsamy",
     "engines": {
         "vscode": "^1.65.0"
@@ -45,5 +45,5 @@
             "supported": true
         },
         "virtualWorkspaces": true
-    },
+    }
 }
