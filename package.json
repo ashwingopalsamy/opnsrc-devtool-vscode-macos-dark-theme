@@ -15,9 +15,6 @@
         "type": "git",
         "url": "https://github.com/ashwin2125/macos-dark-theme"
     },
-    "activationEvents": [
-        "onStartupFinished"
-    ],
     "contributes": {
         "themes": [{
             "label": "MacOS Dark Theme",
